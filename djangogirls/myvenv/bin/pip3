@@ -1,4 +1,4 @@
-#!/workspaces/my-first-blog-/djangogirls/myvenv/bin/python3
+#!/workspaces/my-first-blog-/djangogirls/myvenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
